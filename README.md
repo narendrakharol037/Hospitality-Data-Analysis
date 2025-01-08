@@ -21,3 +21,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ### Final Dashboard
 
 ![hotel_dashboard](https://github.com/user-attachments/assets/090b895f-f9c7-4e6c-9ee6-11424d9deee1)
+
+### Learnt From This Project
+
+1. I learnt Data cleaning, data transformation in power Query, Data Quality Check etc
+2. Learnt Data Modelling in Power Bi, DAX(Data Analysis Expression), Create some calculated Columns etc.
+3. Learnt some Dasboarding Tips
