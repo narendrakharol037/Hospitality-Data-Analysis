@@ -17,3 +17,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ### Data Model
 
 ![hospitality data model](https://github.com/user-attachments/assets/3f48dfc4-4980-4dd6-8fe4-e304ad40af65)
+
+### Final Dashboard
+
+![hotel_dashboard](https://github.com/user-attachments/assets/090b895f-f9c7-4e6c-9ee6-11424d9deee1)
